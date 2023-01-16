@@ -1,0 +1,338 @@
+2, 8:04 PM October 2022 - Performance Review | Lattice
+
+Xx
+
+October 2022 - Performa... Autosaved now
+(/users/e64f8ab9-4f4d-4de5-81e1-
+
+3328950088a2/reviews)
+This form helps you do some self-reflection and analyze how you have
+contributed to your goals. What has clicked and what can be done
+better.
+
+1. Your goals/tasks/key initiatives in last 6 months *
+
+List down the key goals you completed, and any additional
+responsibilities or initiatives you took up in the last 6 months. any other
+ad-hoc work that you feel is worth mentioning
+
+1. Fraud Team development since from initial days- Worked
+closely with all the related stake holder when Fraud investigation
+team was in the very initial stage.
+
+2. ATO sheet development -Developed and changed the ATO
+sheet with experience gained in every customer interaction and
+data requirements.
+
+3. Supporting on other ques apart from my the dedicate que i was
+working on A. Mhold- When mhold was introduced we use to
+get many cases so after completing my cases in SBM | user to
+support there as we have resource crunch at that time and team
+was very new.
+
+B. Old dashboard- | user to support there as well after
+completing my SBM cases.
+
+4. SBM sheet introduction and development - SBM sheet was
+further introduced on the base of ATO sheet that too also got
+changed with time and requirement.
+
+5. Merchant Blocking - Took the responsibility to block merchant in
+the team when it was asked who is willing to do so.
+
+6. Temp channel case investigation - Temp channel was
+introduced at the time of March 2022 when many rules like
+velocity, device change, blacklisting were being implemented to
+secure our customers financial losses and when that went in
+production | use to get 200 or more cases in a day on which |
+user to do real time calling and got success in saving a lot of
+money there for customer and for company.
+
+7. Repository creation - During March 2022 created repository for
+fraudster device id and number which got deprecated and
+replaced with new repository and took one more additional
+responsibility willingly when it was asked who is willing to do this
+and still doing that i.e of bulk blacklisting and blocking them
+every day at EOD.
+
+itch to mobile version
+8. Idea of stop app when screen ohaitch t R wor ing 1eVarked
+with Shubham and gave the idea of creating the rule to stop
+
+https://sliceit.latticehg.com/reviews/1f680899-8a68-46bc-9574-85ad57ba6033/participant/response/1 d9d0aef-2494-406e-a369-1e2eb0183c38 7
+10/9/22, 8:04 PM
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+https://sliceit.latticehg.com/reviews/1f680899-8a68-46bc-9574-85ad57ba6033/participant/response/1 d9d0aef-2494-406e-a369-1e2eb0183c38
+
+screen sharing when any screen sharing app was running with or
+Slice app which got implemented on 28th April 2022 in
+
+production since then we saw a huge decline in the number of
+fraud and slave a lot of money for customer and company.
+
+. Idea to create chat bot- During initial days there was resource
+
+crunch and user were not able to reach our cx team even waiting
+in que for hours and they user to search for alternate Cx number
+and were defrauded at that time | asked Yazir can we create a
+chat bot where it will become easier for customer to reach us
+and also | put up this idea IN front of Nitin too in FEB at that time
+he said we are planning for it but it will take time
+
+Idea to have WhatsApp chat bot- During initial days there was
+resource crunch and user were not able to reach our cx team
+even waiting in que for hours and they user to search for
+alternate Cx number and were defrauded at that time | asked
+Yazir can we create a WhatsApp chat bot where it will become
+easier for customer to reach us and also | put up this idea IN
+front of Nitin too in FEB at that time he said we are planning for it
+but it will take time and still it's not there i hope it will come in
+future.
+
+Idea to have CX number on physical card- As our physical card
+didn't use to have cx number on back side and due this user turn
+towards Search engines to get the cx number and user to get
+defrauded but still this not got implemented hope it will happen
+in future.
+
+Fraud Reporting SOP - Worked closely with my Managers Jayesh
+and Ritesh in development of Fraud Reporting SOP and changes
+time to time.
+
+FIA task checklist - Created check list of tasks performed by FIA
+during Fraud Reporting cases (SBM cases) so that work can be
+standardized in terms of getting the same quality from all the
+person who ever work on fraud reporting cases "SBM cases".
+
+Fraud Investigation work flow chart- Created a work flow chart
+for fraud investigation cases were as what will be the steps need
+to be taken base on different case scenario and situation well it
+became very big and complex still trying to figure out how to
+make it simple and small.
+
+Fraud reporting Quality control- Checking the investigated case
+for error and rectifying it for getting correct data and MO's
+before reporting to SBM.
+
+Defining of error list in fraud reporting- Development of Critical
+and non critical list.
+
+Assignment of work- Assignment of case based on production
+
+time. Switch to mobile version
+
+Production time designee - Worked closely with managers and
+FIA team in designing of Production time of Fraud reporting
+
+October 2022 - Performance Review | Lattice
+
+arr
+10/9/22, 8:04 PM October 2022 - Performance Review | Lattice
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+cases.
+
+Fraud investigation comment standardization and checklist -
+Investigation comments formatting worked with Ritesh in
+developing a checklist which can improve the quality of
+investigation and give better idea and insight about the
+investigated case so that who ever is going through the cases
+doesn't require help form some one to understand the case
+scenario.
+
+Revamping of OLD dashboard rule while migrating to data
+bricks and testing the dashboard migration on data bricks -
+Worked with data science team and managers in collating the old
+dashboard rules and logic and revamping it to make it more
+efficient when it was moved to data bricks and when moved
+looking into the dashboards functionality are they performing as
+we expected and recommending for changes.
+
+Giving request to Data Science team time to time as per
+requirement for tool and rule - Worked with data science team
+to help them understand the how frauds are happening and what
+kind of tools or rule we require.
+
+Query development - Based on requirements asked data science
+team to create new kinds of queries which can improve the
+productivity reduce the manual work of the fraud investigation
+team.
+
+Fraud saving SOP development and changes- Worked closely
+with my Managers Jayesh and Ritesh in development of Fraud
+Reporting SOP and changes time to time.
+
+Fraud Saving inter organizational mail- A very new process
+when it was given to me | developed it with the help of my
+managers developed the repository sheet and different mail
+templets for different situation and follow-up process of mails
+sent to other organization and tracking.
+
+Fraud work shop data presentation - Created a new data
+presentation format for internal fraud workshop where a clear
+picture of week on week fraud loss amount and saving amount
+can be seen as well as from what que how many cases we are
+getting and where are the spikes and reason behind that can be
+discussed.
+
+KYC SRF and error tracking process setup - Worked with Credit
+risk team and setup a process of error reporting in KYC flow and
+to get the resolution from them along with it to maintain a
+Repository to keep a track of all the different kind of error we
+spot in our investigation which can be helpful for our knowledge
+and for credit risk team too. . . .
+Induction and training process- Ritch to.mobile version.
+team members joined there was no proper process for training
+
+https://sliceit.latticehg.com/reviews/1f680899-8a68-46bc-9574-85ad57ba6033/participant/response/1 d9d0aef-2494-406e-a369-1e2eb0183c38
+
+3/7
+10/9/22, 8:04 PM October 2022 - Performance Review | Lattice
+the resource so request for that and helped in that too .
+
+28. Availability - For work always available regardless of time and
+B date like a‘call away:
+
+2. What area would you most like to improve on in the
+coming months *
+
+Things that could have been better
+
+1. People communication- Like how | can present my thoughts in
+team without making other feel bad.
+
+2. Developing skill - Certification in KYC AML and other, SQL ,
+advance excel
+
+3. Open to learn - Want to becoming more open towards new
+methodology and accepting things in the way they are adjusting
+and molding my self as the situation requires.
+
+4, Open to feedback- | would love to know my short comings and
+that can only happen by getting feedback and for getting feed
+back I'm open to all would like to work on those feedbacks which
+| believe will help me grow in my career and will help me
+developing new skills.
+
+BIls
+
+3. What are some of the key skills you displayed in the last 6
+months. Support with an example *
+
+1. Taking responsibility for the work assigned and timely
+completion.- | got some backlogs of 200 or more case and due
+to some error on other team on whom we depend | asked for one
+week time as we had normal case flow and other ques to look in
+but | was given 3 days time to finish it | took that challenge and
+was able to finish it in 3 day with the help of my team mates to
+that is dedication for me.
+
+2. Learning of SQL and excel - Recently made a SQL query where
+normal access of ORBIT was change for a team mate so create
+can fetch all the transaction which can help in looking into the
+details and work on the cases.
+
+3. Doing open source analysis for getting what's going around the
+industry and how we can implement in our process
+
+4. Reporting skill- Understanding tt@vwkehcdo esobihs version
+presentation of Data so that it becomes easy for anyone to
+
+understand.
+https://sliceit.latticehg.com/reviews/1f680899-8a68-46bc-9574-85ad57ba6033/participant/response/1 d9d0aef-2494-406e-a369-1e2eb0183c38
+
+4i7
+10/9/22, 8:04 PM October 2022 - Performance Review | Lattice
+
+4. What progress have you made in the feedback received in
+last cycle/connect *
+
+Since my last feed back where | was asked to take responsibility
+and accountability from that time | worked on developing a TO-DO
+list for me so that what ever tasks have been assigned to me for day
+to day basis | don't miss them as well as that list help me to
+
+planning my day that what extra works | can do and side by side
+other action items which are assigned to me | can track them as will.
+Also | try to take the ownership of the que on which I'm working on
+and how to make the process better more efficient and to keep all
+the track related to it.
+
+B JT § SS
+
+= —
+
+5. Provide an example of one company value you bring to
+life. Be specific *
+
+Customer centricity- | try to give best possible solution to user
+based on the situation and case
+
+e.g. Once in Feb 2022 | got a Ping on my Linked it that user was
+defrauded and she lost 40K appx. and she was asking form my
+number So, in place of giving mine | asked her number and called
+her understood her situation help her with all her queries and when
+ever she user to ping | user to arrange a call for her either me or CX
+team based on the requirements and till date | am helping her in
+getting her money back she got the fraudster and now in the
+process of getting money back and till date when ever she requires
+my help | help her out.
+
+Development and Dedication -
+
+A. With development | mean when how and in what way we can
+improve it and can develop new process so that work efficiency can
+be improved which can give us extra time to work on other tasks
+which boils down to better productivity and output e.g.
+development of Fraud saving sheet, SBM sheet, Tracking of fraud
+
+loss amount and saved amount, casegpqraneaanidine Vetsion
+
+productivity etc.
+
+https://sliceit.latticehg.com/reviews/1f680899-8a68-46bc-9574-85ad57ba6033/participant/response/1 d9d0aef-2494-406e-a369-1e2eb0183c38 5/7
+10/9/22, 8:04 PM
+
+B. With dedication for me it means "here all about me not for others
+"that try to achieve perfection, be as error less we can be,
+completion of work on time or before that, be available to all on time
+and sometime off time if required.
+
+e.g.
+
+1. Like
